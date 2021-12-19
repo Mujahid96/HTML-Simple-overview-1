@@ -1,0 +1,143 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+.orange-highligt{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+   float: left;
+    margin-left: 5%;
+    padding-right: 2%;
+}
+ #img_up{
+    width: 100%;
+}
+.background{
+    
+    background-image: url("image/shapes/Frame\ 58.jpg");
+    background-repeat: no-repeat;
+}
+
+section{
+    padding-bottom: 150px;
+    padding-top: 150px;
+    height: 500px;
+    
+}
+.button-design{
+    color:white;
+  font-weight: 700;
+    background-image: linear-gradient(45deg,lightsalmon,tomato);
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 60px;
+    box-shadow: 10px 10px 10px tomato;
+  
+  
+
+}
+
+.dream-area{
+    background-image: url("image/shapes/7.png");
+    background-repeat:no-repeat;
+    background-position: right;
+}
+.single-experinace{
+    box-shadow: 10px 20px 40px rgba(136, 247, 247, 0.986);
+    border-radius: 5px;
+    height: 80%;
+    padding-left: 2%;
+}
+.Experiance-area{
+  
+    padding-top: 0px;
+}
+#full-stack{
+    
+    border-left: 7px solid;
+    border-image:linear-gradient(180deg,lightsalmon,tomato);
+border-image-slice:1;
+}
+#baby-stack{
+    border-left: 7px solid;
+    border-image:linear-gradient(180deg,blue,cyan);
+    border-image-slice:1;
+}
+footer p{
+    text-align: center;
+    
+    font-size: 12px;
+}
+#exp-padding{
+  
+
+}
+
+/* #second_part_img{
+    width: 20%;
+} */
+
+#img_middle{
+    width: 60%;
+    margin-left: 100px;
+    margin-top:60px;
+   
+}
+#exp_description{
+    width: 500px;
+    text-align: center;
+    margin: auto;
+    width: 60%;
+   padding: 10px;
+
+
+}
+.card-list{
+    display: flex;
+justify-content: space-evenly;
+margin-top: 30px;
+padding-right: 100px;
+padding-left: 100px;
+
+
+}
+.card{
+width: 300px;
+border: 10px solid white;
+border-radius: 30px ;
+box-shadow: 5px 5px 10px rgb(139, 137, 137);
+
+}
+.card img{
+    width: 100%;
+    
+    
+}
+
+.subscriber{
+    display: flex;
+    justify-content: space-evenly;
+
+    border: 5px solid white;
+    border-radius: 20px;
+    width: 1000px;
+    margin: auto;
+    box-shadow: 2px 2px 5px 2px rgb(209, 203, 203);
+   
+   
+}
+
+.lower{
+    background-color: rgb(22, 11, 11);
+    margin-top: 100px;
+height: 150px;
+
+}
